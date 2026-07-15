@@ -1,6 +1,24 @@
 # ai-resume-bullet-optimizer
 A lightweight AI workflow for optimizing resume bullet points.
 
+## Why I Built This
+
+As AI becomes increasingly integrated into professional workflows, I wanted to explore practical applications of generative AI beyond simple content generation.
+
+This project demonstrates how AI can assist with repetitive knowledge work by improving resume tailoring, identifying relevant keywords, and helping professionals better communicate their experience.
+
+## AI Workflow
+
+The workflow follows a simple prompt-engineering approach:
+
+1. User provides an existing resume bullet.
+2. User provides a target job description.
+3. AI analyzes the job requirements and identifies relevant themes.
+4. AI rewrites the bullet while preserving factual accuracy.
+5. AI provides keywords and improvement suggestions.
+
+The goal is not to replace human judgment, but to accelerate the editing and refinement process.
+
 # AI Resume Bullet Optimizer
 
 ## Overview
